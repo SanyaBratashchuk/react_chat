@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2d4ca8ff.css","mappings":"AAAA,KACE,QAAS,CCDX,OAGE,qBADA,WAAY,CADZ,UAEqB","sources":["index.scss","components/Login/Login.scss"],"sourcesContent":["body {\n  margin: 0;\n};\n\n",".Login {\r\n  width: 50vh;\r\n  height: 50vh;\r\n  background-color: red;\r\n}"],"names":[],"sourceRoot":""}
